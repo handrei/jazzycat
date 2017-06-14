@@ -1,2 +1,2 @@
 # jazzycat
-combine any 4 jazz song for an inedit experience
+combine any 4 jazz songs for an inedit experience
